@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812254830219",
+    "project_id": "seouldata-b07b4",
+    "storage_bucket": "seouldata-b07b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812254830219:android:196918f1919ea0b4da3e8e",
+        "android_client_info": {
+          "package_name": "com.example.seouldata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHPMVG5RyEpMXLXivqfQJ1DpSiXimT0Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
